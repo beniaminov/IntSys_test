@@ -38,7 +38,7 @@ body {
 
 .static-top {
     background: linear-gradient(rgba(255, 255, 255, 100) 0%, rgba(255, 255, 255, 50) 70%, rgba(255, 255, 255, 50) 75%, rgba(0, 0, 0, 0) 100%);
-    font-size: 3rem;
+    font-size: 1.2rem;
 }
 
 .static-bottom {
@@ -50,16 +50,24 @@ body {
     background-image: url("static/centering.png");
     background-repeat: no-repeat;
     height: 38rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
 }
 
 .bg2::after {
     background-image: url("static/first_day.png");
     background-repeat: no-repeat;
+    
+    margin-left: 3rem;
+    margin-right: 3rem;
 }
 
 .bg3::after {
     background-image: url("static/days-off.png");
     background-repeat: no-repeat;
+    
+    margin-left: 3rem;
+    margin-right: 3rem;
 }
 
 .fa {
