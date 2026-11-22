@@ -1,0 +1,263 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.min.css" type="text/css">
+
+</head>
+
+<body>
+    <div class="page-header">
+        <center>
+            <div class="profileLogo">
+                <img src="rggu.jpg" alt="sample logo" height="100">
+                <img src="rgguText.png" alt="sample logo" height="100">
+
+
+                <h1> ОТДЕЛЕНИЕ ИНТЕЛЛЕКТУАЛЬНЫХ СИСТЕМ</br> В ГУМАНИТАРНОЙ СФЕРЕ </h1>
+
+
+                </h1>
+        </center>
+
+        </div>
+        <div class="panel-body">
+        <ul class="list-group">
+		    <h4>Привет от студентов бакалавриата 2023 года поступления</h4>
+            <h4>Привет от студентов магистратуры 2024 года поступления</h4>
+			
+            <li class="list-group-item"><a href="page_Ilolova/ilolova.html">Илолова Сабрина</a></li>
+            <li class="list-group-item"><a href="page_Magomedova/magomedova.html">Магомедова Патимат</a></li>
+            <li class="list-group-item"><a href="page_Maksimenko/maksimenko.html">Максименко Родион</a></li>
+            <li class="list-group-item"><a href="page_Shapovalov/shapovalov.html">Шаповалов Фёдор</a></li>
+            <li class="list-group-item"><a href="page_Skombrichiy/skombrichiy.html">Скомбричий Глеб</a></li>
+        </ul>
+		
+		<ul class="list-group">
+            <h4>Привет от студентов 2021 года поступления</h4>
+            <li class="list-group-item"><a href="page_Brajnikov/brajnikov.html">Бражников Даниил</a></li>
+            <li class="list-group-item"><a href="page_Torkanovskiy/torkanovskiy.html">Torkanovskiy Mikhail</li>
+            <li class="list-group-item"><a href="page_Kudrina/kudrina.html">Кудрина Александра</li>
+            <li class="list-group-item"><a href="page_Grishkov/Grishkov.html">Гришков Андрей</li>
+            <li class="list-group-item"><a href="page_Grigorieva/grigorieva.html">Григорьева Арина</li>
+
+    <li class="list-group-item"><a href="page_Kamenskii/Kamenskii.html">Каменский Марк</li>
+        </ul>
+	    <ul class="list-group">
+                <h4>Привет от студентов 2020 года поступления</h4>
+		<li class="list-group-item"><a href="page_Gaina/Gaina.html">Gaina Stepan</a></li>
+                <li class="list-group-item"><a href="page_Yashina/index.html">Yashina Polina</a></li>
+		<li class="list-group-item"><a href="page_Okhotkina/okhotkina.html">Okhotkina Alexandra</a></li>
+	    </ul>
+            <ul class="list-group">
+                <h4>Привет от студентки 2019 года поступления!</h4>
+                <li class="list-group-item"><a href="page_Polkovnikova/index.html">Polkovnikova Anna</a></li>
+            </ul>
+
+            <ul class="list-group">
+                <h4>Привет от студентов 2018 года поступления</h4>
+				<li class="list-group-item"><a href="page_Muzhelevsky/Muzhelevsky.html">Muzhelevsky Kirill</a></li>
+	            <li class="list-group-item"><a href="page_Bordyugova/bordyugova.html">Bordyugova Elizaveta</a></li>
+                <li class="list-group-item"><a href="page_Shkanova/index.html">Shkanova Irina</a></li>
+                <li class="list-group-item"><a href="page_Golubkova/index.html">Golubkova Anastasia</a></li>
+                <li class="list-group-item"><a href="page_Prudij/index.html">Prudij Dmitrii</a></li>
+                <li class="list-group-item"><a href="page_Savina/index.html">Nadezhda Savina</a></li>
+                <li class="list-group-item"><a href="page_Sokolova/Sokolova.html">Sokolova Anna</a></li>
+		        <li class="list-group-item"><a href="page_Kobzev/Kobzev_page.html">Kobzev Artem</a></li>
+                <li class="list-group-item"><a href="page_Kovbasa/Kovbasa_page.html">Kovbasa Daria</a></li>
+                <li class="list-group-item"><a href="page_Komendat/Комендат Наталья.html">Komendat Natalia</a></li>
+				<li class="list-group-item"><a href="page_Panferova/Panferova.html">Panferova Anastasia</a></li>
+                <li class="list-group-item"><a href="page_Dukina/index.html">Dukina Vera</a></li>
+                <li class="list-group-item"><a href="page_Dmitryuk/index.html">Dmitryuk Georgiy</a></li>
+                <li class="list-group-item"><a href="page_Shkrebtienko/index.html">Shkrebtienko Praskovya</a></li>
+                <li class="list-group-item"><a href="page_Naida/index.html">Naida Anna</a></li>
+                <li class="list-group-item"><a href="page_Mukhoyan/index.html">Mukhoyan Anna</a></li>
+            </ul>
+            <ul class="list-group">
+                <h4>Привет от студентов 2017 года поступления</h4>
+                <li class="list-group-item"><a href="page_Bogdanova/index.html">Anya Bogdanova</a></li>
+				<li class="list-group-item"><a href="page_Antonova/index.html">Kseniia Antonova</a></li>
+                <li class="list-group-item"><a href="page_Kalmykova/index.html">Inna Kalmykova</a></li>
+                <li class="list-group-item"><a href="page_Luzina/page.html">Margarita Luzina</a></li>
+		        <li class="list-group-item"><a href="page_Markovichev/index.html">Daniel Markovichev</a></li>
+                <li class="list-group-item"><a href="page_Russovich/index.html">Vilena Russovich</a></li>
+		        <li class="list-group-item"><a href="page_Nikulshina/page_Nikulshina.html">Marina Nikulshina</a></li>
+                <li class="list-group-item"><a href="page_Kamushkina/index.html">Natalia Kamushkina</a></li>
+                <li class="list-group-item"><a href="page_Golovacheva/index.html">Vladislava Golovacheva</a></li>
+	         	<li class="list-group-item"><a href="page_Fofanova/index.html">Angelina Fofanova</a></li>
+				<li class="list-group-item"><a href="page_Gladtsyna/index.html">Liudmila Gladtsyna</a></li>
+                <li class="list-group-item"><a href="page_Shpakova/Shpakova.html">Shpakova Kate</a></li>
+                <li class="list-group-item"><a href="page_Goncharov/index.html">Goncharov Egor</a></li>
+				<li class="list-group-item"><a href="page_Tokareva/index.html">Tokareva Tatiana</a></li>
+                <li class="list-group-item"><a href="page_Rudenko/index.html">Valentina Rudenko</a></li>
+		<li class="list-group-item"><a href="page_Gazizullin/index.html">Daud Gazizullin</a></li>
+
+            </ul>
+            <ul class="list-group">
+                <h4>2016 год поступления тоже здесь;)</h4>
+                <li class="list-group-item"><a href="page_Ogoreltseva/Natalia.html">Огорельцева Наталья</a></li>
+                <li class="list-group-item"><a href="page_Martyanova/Martyanova.html">Мартьянова Елизавета</a></li>
+                <li class="list-group-item"><a href="page_Vlivanov/vlivanov.html">Иванов Владимир</a></li>
+                <li class="list-group-item"><a href="page_Savchenko/Victoria.html">Савченко Виктория</a></li>
+                <li class="list-group-item"><a href="page_Smirnova/evgenia.html"> Смирнова Евгения</a></li>
+                <li class="list-group-item"><a href="page_Gross/Gross.html">Гросс Екатерина</a></li>
+                <li class="list-group-item"><a href="page_Dagkesamanskaya/page_Dagkesamanskaya.html">Дагкесаманская Екатерина</a></li>
+                <li class="list-group-item"><a href="page_Korneva/Liuba.html">Корнева Любовь</a></li>
+                <li class="list-group-item"><a href="page_Furkalo/Furkalo.html">Фуркало Игорь</a></li>
+                <li class="list-group-item"><a href="page_Mishina/Olya.html">Мишина Ольга</a></li>
+                <li class="list-group-item"><a href="page_BaranovaED/index.html">Баранова Екатерина</a></li>
+                <li class="list-group-item"><a href="page_Gorbatchev/Gorbatchev.html">Горбачев Андрей</a></li>
+            </ul>
+
+            <ul class="list-group">
+                <h4>Привет от студентов 2015 года поступления:</h4>
+                <li class="list-group-item"><a href="page_Kiselev/Kiselev.html">Александр Киселев</a></li>
+                <li class="list-group-item"><a href="page_Sycheva/Julia.html">Юлия Сычева</a></li>
+                <li class="list-group-item"><a href="page_Nazarov/page.html">Станислав Назаров</a></li>
+                <li class="list-group-item"><a href="page_Shestakova/Polina.html">Полина Шестакова</a></li>
+                <li class="list-group-item"><a href="page_Velieva/index.html">Лейла Велиева</a></li>
+                <li class="list-group-item"><a href="page_Petrov/Petrov.html">Александр Петров</a></li>
+                <li class="list-group-item"><a href="page_Velieva/index.html">Лейла Велиева</a></li>
+                <li class="list-group-item"><a href="page_Petrov/Petrov.html">Александр Петров</a></li>
+                <li class="list-group-item"><a href="page_Ermolayeva/ermolayeva.html">Виктория Ермолаева</a></li>
+            </ul>
+
+            <ul class="list-group">
+                <h4>Привет от студентов (2014 год поступления):</h4>
+                <li class="list-group-item"><a href="page_Anokhin/Anokhin.html">Анохин Дмитрий</a></li>
+                <li class="list-group-item"><a href="page_Coldiep/Coldiep.html">Карпочев Олег</a></li>
+                <li class="list-group-item"><a href="page_Lapshina/Lapshina.html">Лапшина Ирина</a></li>
+                <li class="list-group-item"><a href="page_Nosenko/Nosenko.html">Но́сенко Ольга</a></li>
+                <li class="list-group-item"><a href="page_Oparysheva/Oparysheva.html">Опарышева Анастасия</a></li>
+                <li class="list-group-item"><a href="page_Palenov/Palenov.html">Палёнов Кирилл</a></li>
+                <li class="list-group-item"><a href="page_Yakimova/Malinka.html">Якимова Людмила</a></li>
+                <li class="list-group-item"><a href="page_Andrew/Andrew.html">Лившин Андрей</a></li>
+                <li class="list-group-item"><a href="page_Kostina/aboutme.html">Костина Александра</a></li>
+                <li class="list-group-item"><a href="page_Timofeyeva/Timofeyeva.html">Тимофеева Вероника</a></li>
+            </ul>
+
+            <ul class="list-group">
+                <h4>Hello from students (2013 year):</h4>
+                <li class="list-group-item"><a href="page_Artemova/Artemova.html">Artemova Daria</a></li>
+                <li class="list-group-item"><a href="page_Vlados/index.html">Dokin Vladislav</a></li>
+                <li class="list-group-item"><a href="page_Georgiy/index.html">Groshev Georgiy</a></li>
+                <li class="list-group-item"><a href="page_Kseniya/masonry.html">Yershova Kseniya</a></li>
+                <li class="list-group-item"><a href="page_Mostovaya/most.html">Mostovaya Anastasiya</a></li>
+                <li class="list-group-item"><a href="page_AlexF/index.html">Fesenko Alexandra</a></li>
+            </ul>
+
+            <ul class="list-group">
+                <h4>Hello from students (2012 year):</h4>
+                <li class="list-group-item"><a href="page_Viktoria/vika.html">Viktoria Kapanina</a></li>
+                <li class="list-group-item"><a href="page_Yulia/yulia.html">Trifonenkova Yulia</a></li>
+                <li class="list-group-item"><a href="page_LenaT/lena.html">Tarabeikh Elena</a></li>
+                <li class="list-group-item"><a href="page_jbenua/main.html">Soldatenkova Eugenia</a></li>
+                <li class="list-group-item"><a href="page_Stefanov-NS/main.html">Stefanov Nicolay</a></li>
+                <li class="list-group-item"><a href="page_Anastasyzko/Anastasyzko_hello.html">Syzko Anastasia</li>
+                <li class="list-group-item"><a href="page_Savenkov/page.html">Savenkov Alexey</li>
+                    <li class="list-group-item"><a href="page_Shishova/main.htm">Shishova Marina</li>
+                        <li class="list-group-item"><a href="page_Rinaly/main.html">Ponamareva Ekaterina</li>
+                            <li class="list-group-item"><a href="page_Lenus1k/main.html">Lukyanova Elena</a></li>
+                <li class="list-group-item"><a href="page_erin/main.html">Klimashevskaya Anastasia</a></li>
+                <li class="list-group-item"><a href="page_Ushakova/index.html">Ushakova Yunna</a></li>
+            </ul>
+
+
+
+            <ul class="list-group">
+                <h4>Hello from students (2011 year):</h4>
+
+                <li class="list-group-item"><a href="page_Kate/index.html">Kate Nasonova</a></li>
+                <li class="list-group-item"><a href="page_Kamran/hello_kamran.html">Asadov Kamran</a></li>
+                <li class="list-group-item"><a href="page_Sasha/index.html">Sasha Sir</a></li>
+                <li class="list-group-item"><a href="page_Evgeny/index.html">Ovcharenko Evgeniy</a></li>
+                <li class="list-group-item"><a href="page_Makson/index.html">Makson Boev</a></li>
+                <li class="list-group-item"><a href="page_Arsen/index.html">Agabekov Arsen</a></li>
+                <li class="list-group-item"><a href="page_Tanya/Tanya.html">Tanya Sviridenko</a></li>
+                <li class="list-group-item"><a href="page_Olya/Olya.html">Olya Egurnova</a></li>
+
+            </ul>
+
+            <ul class="list-group">
+                <h4>Hello from students (2010 year):</h4>
+                <li class="list-group-item"><a href="page_Maximenko/JSA.htm">Maximenko Anna</a></li>
+                <li class="list-group-item"><a href="page_Julia/myFirstFile.html">Julia Puzovik</a></li>
+                <li class="list-group-item"><a href="page_Egor/index.html">Egor Belov</a></li>
+                <li class="list-group-item"><a href="page_Irina/index.html">Irina Spiridonova</a></li>
+                <li class="list-group-item"><a href="page_alenaM/alena.html">Myagkova Alena</a></li>
+                <li class="list-group-item"><a href="page_Liza/liza.html">Elizaveta Elagina</a></li>
+                <li class="list-group-item"><a href="page_Viktor/parallax.html">Viktor Vetchinkin</a></li>
+                <li class="list-group-item"><a href="page_Alexander/Try.html">Mozhaev Alexander</a></li>
+                <li class="list-group-item"><a href="page_AbrAlena/AbrAlena.html">Alena Abrazhenina</a></li>
+                <li class="list-group-item"><a href="page_Helen/page.html">Helen Efimovskih</a></li>
+            </ul>
+
+        </div>
+        <footer class="footer">
+            <center>
+                <ul class="list-group">
+                    <h4 class="text-muted"> Happy NewYear!</h4>
+                </ul>
+            </center>
+        </footer>
+
+        <script src="bootstrap/js/jquery.min.js"></script>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+        <script src="bootstrap/js/animation.min.js"></script>
+</body>
+
+</html>
+<li class="list-group-item"><a href="page_erin/main.html">Klimashevskaya Anastasia</a></li>
+<li class="list-group-item"><a href="page_Ushakova/index.html">Ushakova Yunna</a></li>
+
+</ul>
+
+
+
+<ul class="list-group">
+    <h4>Hello from students (2011 year):</h4>
+
+    <li class="list-group-item"><a href="page_Kate/index.html">Kate Nasonova</a></li>
+    <li class="list-group-item"><a href="page_Kamran/hello_kamran.html">Asadov Kamran</a></li>
+    <li class="list-group-item"><a href="page_Sasha/index.html">Sasha Sir</a></li>
+    <li class="list-group-item"><a href="page_Evgeny/index.html">Ovcharenko Evgeniy</a></li>
+    <li class="list-group-item"><a href="page_Makson/index.html">Makson Boev</a></li>
+    <li class="list-group-item"><a href="page_Arsen/index.html">Agabekov Arsen</a></li>
+    <li class="list-group-item"><a href="page_Tanya/Tanya.html">Tanya Sviridenko</a></li>
+    <li class="list-group-item"><a href="page_Olya/Olya.html">Olya Egurnova</a></li>
+
+</ul>
+
+<ul class="list-group">
+    <h4>Hello from students (2010 year):</h4>
+    <li class="list-group-item"><a href="page_Maximenko/JSA.htm">Maximenko Anna</a></li>
+    <li class="list-group-item"><a href="page_Julia/myFirstFile.html">Julia Puzovik</a></li>
+    <li class="list-group-item"><a href="page_Egor/index.html">Egor Belov</a></li>
+    <li class="list-group-item"><a href="page_Irina/index.html">Irina Spiridonova</a></li>
+    <li class="list-group-item"><a href="page_alenaM/alena.html">Myagkova Alena</a></li>
+    <li class="list-group-item"><a href="page_Liza/liza.html">Elizaveta Elagina</a></li>
+    <li class="list-group-item"><a href="page_Viktor/parallax.html">Viktor Vetchinkin</a></li>
+    <li class="list-group-item"><a href="page_Alexander/Try.html">Mozhaev Alexander</a></li>
+    <li class="list-group-item"><a href="page_AbrAlena/AbrAlena.html">Alena Abrazhenina</a></li>
+    <li class="list-group-item"><a href="page_Helen/page.html">Helen Efimovskih</a></li>
+</ul>
+
+</div>
+<footer class="footer">
+    <center>
+        <ul class="list-group">
+            <h4 class="text-muted"> Happy NewYear!</h4>
+        </ul>
+    </center>
+</footer>
+
+<script src="bootstrap/js/jquery.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="bootstrap/js/animation.min.js"></script>
+</body>
+
+</html>
