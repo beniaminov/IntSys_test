@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Страница студента - Козикова О.В.</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #ffd3e0 0%, #c8e6c9 100%);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            max-width: 600px;
+            width: 90%;
+            border-top: 5px solid #81c784;
+        }
+
+        h1 {
+            text-align: center;
+            color: #d81b60;
+            margin-top: 0;
+            margin-bottom: 30px;
+            border-bottom: 3px solid #ffb74d;
+            padding-bottom: 15px;
+            font-size: 24px;
+        }
+
+        .profile-img {
+            display: block;
+            margin: 0 auto 25px auto;
+            width: 100%;
+            max-height: 300px;
+            border-radius: 10px;
+            object-fit: cover;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        li {
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 15px;
+            padding-left: 25px;
+            position: relative;
+        }
+
+        li::before {
+            content: "🌴"; 
+            position: absolute;
+            left: 0;
+            top: 2px;
+        }
+
+        strong {
+            color: #2e7d32;
+        }
+
+        a {
+            color: #d81b60;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>Данные студентки</h1>
+        
+        <img src="trees.jpg" alt="Страна для отпуска" class="profile-img">
+
+        <ul>
+            <li><strong>ФИО:</strong> Козикова Ольга Всеволодовна</li>
+            <li><strong>Почта:</strong> <a href="mailto:ezrrrra@yanndex.ru">ezrrrra@yanndex.ru</a></li>
+            <li><strong>Тема курсовой:</strong> Разработка компьютерного консультанта по выбору страны для отпуска</li>
+            <li><strong>Тема ВКР:</strong> еще обсуждается</li>
+            <li><strong>Научный руководитель:</strong> Ефимова Елена Анатольевна</li>
+        </ul>
+    </div>
+
+</body>
+</html>
