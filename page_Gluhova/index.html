@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Моя страница - Глухова</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        .card {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+            padding: 40px;
+            max-width: 500px;
+            width: 100%;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        .avatar {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 5px solid #f0f0f0;
+            margin-bottom: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            font-size: 24px;
+            margin-bottom: 5px;
+        }
+        .email {
+            color: #667eea;
+            font-weight: 600;
+            margin-bottom: 20px;
+            text-decoration: none;
+        }
+        .email:hover {
+            text-decoration: underline;
+        }
+        .info-block {
+            text-align: left;
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            border-left: 4px solid #764ba2;
+        }
+        .info-block strong {
+            display: block;
+            color: #555;
+            font-size: 14px;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .info-block span {
+            color: #333;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <img src="sky.jpg" alt="Мое фото" class="avatar">
+        
+        <h1>Глухова Дарья Андреевна</h1>
+        <a href="mailto:[daria.a.gluhova@gmail.com]" class="email">[daria.a.gluhova@gmail.com]</a>
+
+        <div class="info-block">
+            <strong>Тема курсовой работы</strong>
+            <span>[Разработка приложения для психологического тестирования]</span>
+        </div>
+
+        <div class="info-block">
+            <strong>Тема ВКР</strong>
+            <span>[Еще не определена]</span>
+        </div>
+
+        <div class="info-block">
+            <strong>Научный руководитель</strong>
+            <span>[Ефимова Елена Анатольевна]</span>
+        </div>
+    </div>
+
+</body>
+</html>
